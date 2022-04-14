@@ -1,0 +1,16 @@
+[
+{
+  "modid": "startwithhouse",
+  "name": "Start With House",
+  "description": "What it says on the tin, start with a house when making a new world.",
+  "version": "1.0",
+  "mcversion": "1.12",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Jamesthe1"],
+  "credits": "HarryTalks",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
